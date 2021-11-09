@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1543489736 source:c:\users\fci lab\desktop\sssssssssssssssssssssss\matrix.cpp
+	"matrix.h"
+	<iostream>
+	<iomanip>
+	<valarray>
+	<cassert>
+
+1543489736 c:\users\fci lab\desktop\sssssssssssssssssssssss\matrix.h
+	<valarray>
+	<iostream>
+
+1543489878 source:c:\users\fci lab\desktop\sssssssssssssssssssssss\main.cpp
+	<iostream>
+	<iomanip>
+	<valarray>
+	<cassert>
+	"matrix.h"
+
+1543489880 source:h:\sssssssssssssssssssssss\main.cpp
+	<iostream>
+	<iomanip>
+	<valarray>
+	<cassert>
+	"matrix.h"
+
+1543489738 h:\sssssssssssssssssssssss\matrix.h
+	<valarray>
+	<iostream>
+
+1543489986 source:h:\sssssssssssssssssssssss\matrix.cpp
+	"matrix.h"
+	<iostream>
+	<iomanip>
+	<valarray>
+	<cassert>
+
+1544106125 source:f:\sssssssssssssssssssssss\main.cpp
+	<iostream>
+	<iomanip>
+	<valarray>
+	<cassert>
+	"matrix.h"
+
+1544081716 f:\sssssssssssssssssssssss\matrix.h
+	<valarray>
+	<iostream>
+
+1544106031 source:f:\sssssssssssssssssssssss\matrix.cpp
+	"matrix.h"
+	<iostream>
+	<iomanip>
+	<valarray>
+	<cassert>
+
+1544004167 source:c:\users\user\desktop\sssssssssssssssssssssss\main.cpp
+	<iostream>
+	<iomanip>
+	<valarray>
+	<cassert>
+	"matrix.h"
+
+1544081716 c:\users\user\desktop\sssssssssssssssssssssss\matrix.h
+	<valarray>
+	<iostream>
+
+1544082248 source:c:\users\user\desktop\sssssssssssssssssssssss\matrix.cpp
+	"matrix.h"
+	<iostream>
+	<iomanip>
+	<valarray>
+	<cassert>
+
+1543500255 source:c:\users\user\desktop\ass2\sssssssssssssssssssssss\main.cpp
+	<iostream>
+	<iomanip>
+	<valarray>
+	<cassert>
+	"matrix.h"
+
+1543500975 c:\users\user\desktop\ass2\sssssssssssssssssssssss\matrix.h
+	<valarray>
+	<iostream>
+
+1543500975 source:c:\users\user\desktop\ass2\sssssssssssssssssssssss\matrix.cpp
+	"matrix.h"
+	<iostream>
+	<iomanip>
+	<valarray>
+	<cassert>
+
+1544710933 source:e:\sssssssssssssssssssssss\main.cpp
+	<iostream>
+	<iomanip>
+	<valarray>
+	<cassert>
+	"matrix.h"
+
+1544081716 e:\sssssssssssssssssssssss\matrix.h
+	<valarray>
+	<iostream>
+
+1544106031 source:e:\sssssssssssssssssssssss\matrix.cpp
+	"matrix.h"
+	<iostream>
+	<iomanip>
+	<valarray>
+	<cassert>
+
+1636477243 source:e:\fci\year 2\first semester\oop\ass\ass 1\sssssssssssssssssssssss\main.cpp
+	<iostream>
+	<iomanip>
+	<valarray>
+	<cassert>
+	"matrix.h"
+
+1636474642 e:\fci\year 2\first semester\oop\ass\ass 1\sssssssssssssssssssssss\matrix.h
+	<valarray>
+	<iostream>
+
+1636475039 source:e:\fci\year 2\first semester\oop\ass\ass 1\sssssssssssssssssssssss\matrix.cpp
+	"matrix.h"
+	<iostream>
+	<iomanip>
+	<valarray>
+	<cassert>
+
