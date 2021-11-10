@@ -132,12 +132,14 @@ istream& operator>> (istream& in, matrix& mat)
 /// out matrix-----------------------//
 ostream& operator<< (ostream& out,const matrix& mat )
 {
+for (int j=0;j<mat.col;j++){
+        for (int i=0; i<mat.row; i++)
+        {
 
+            cout<<mat.data[i]<<"  ";
 
-    for (int i=0; i<mat.col*mat.row; i++)
-    {
-
-        cout<<mat.data[i];
+        }
+        cout<<endl;
 
     }
     return out;
